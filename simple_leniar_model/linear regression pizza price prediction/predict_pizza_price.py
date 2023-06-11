@@ -1,3 +1,7 @@
+# This is a program of pizza price prediction
+# No helper libraries are used.
+# Example is from book of "Machine Learning Algorithm by Nafis Nihal"
+# Comments will be added soon.
 x = [6, 8, 12, 14, 18]
 y = [350, 775, 1150, 1395, 1675]
 
